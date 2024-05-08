@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a3mxh7ttw23mh949?svg=true)](https://ci.appveyor.com/project/Shustovskikh/pure-functions)
