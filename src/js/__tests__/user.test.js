@@ -9,7 +9,7 @@ describe('user', () => {
 
     const data = loadUser(1);
 
-    expect(httpGet).toBeCalledWith('http://server:8080/users/1');
+    expect(httpGet).toHaveBeenCalledWith('http://server:8080/users/1');
     expect(data).toEqual({ name: 'user' });
   });
 
